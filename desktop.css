@@ -1,0 +1,93 @@
+.another-three img{
+    width: 600px;
+}
+.another-four img{
+    width:370px
+}
+
+.changer-six h2{
+    position: relative;
+    top: -70%;
+
+    text-align: center;
+    color: white;
+}
+.changer-six img{
+    height: 100%;
+}
+
+.changer-nine{
+    background-color: #F3F5F6;
+    height: 300px;
+    margin-top: 7%;
+}
+.changer-nine button{
+    border-radius: 7px;
+    padding: 5px;
+    background-color: #232323;
+    color: white;
+}
+.changer-ten .card .card-body{
+    height: 140px;
+}
+
+.changer-ten .card p{
+font-size: 12px;
+}
+.changer-eleven{
+   border-radius: 15px;
+    background-color: #9E3040;
+    padding: 20px;
+}
+.changer-eleven p{
+    font-weight: lighter;
+    padding: 70px;
+}
+.changer-eleven h4{
+    margin-top: -70px;
+}
+.changer-eleven img{
+    width: 70px;
+}
+.input-group{
+    display: flex;
+    justify-content: center;
+}
+.changer-thirteen input{
+    border-radius: 7px;
+    border:1px #cccc solid;
+    width: 400px;
+  
+}
+ .changer-thirteen button{
+   color: white;
+   background-color: #9E3040;
+   border: none;
+   border-radius: 7px;
+}  
+::placeholder{
+    padding: 10px;
+}
+
+.changer-thirteen .form-control{
+    width: 200px;
+}
+
+.sub-changer img{
+    width: 50px;
+}
+.last-changerr ul {
+    margin-left: 20px;
+}
+
+  
+  @media (min-width: 768px) {
+   .vorai .col-lg-6{
+    width: 100%;
+   }
+   .vorai img{
+    display: block;
+    margin: 0 auto;
+   }
+  }
+  
