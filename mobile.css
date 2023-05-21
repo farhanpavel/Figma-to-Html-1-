@@ -107,6 +107,9 @@
 .another-four img{
     width:270px
 }
+.changer-nine{
+    background-color: #F3F5F6;
+}
 .changer-nine h3{
     color: #9E3040;
 }
@@ -183,5 +186,13 @@ height: 200px;
     .another-two {
       padding: 50px;
       background-position: center;
+    }
+  }
+  @media (min-width: 1000px) and (max-width: 1200px) {
+    .changer-eight {
+      flex-basis: 50%;
+    }
+    .changer-nine {
+      flex-basis: 50%;
     }
   }
